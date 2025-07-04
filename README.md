@@ -31,4 +31,4 @@ Objective
 This solution positions financial institutions to modernize lending, reduce risk, and build greater trust with customers—all while remaining agile 
 and compliant in a dynamic financial landscape.
 
-The web app can be accesed on this link: https://drive.google.com/drive/folders/18FiiQLZRQmWjSj9k423wnC7pUtf_VLmg?usp=drive_link
+The web app can be accesed on this link: https://loan-prediction-app-igu6.onrender.com
