@@ -31,4 +31,5 @@ Objective
 This solution positions financial institutions to modernize lending, reduce risk, and build greater trust with customers—all while remaining agile 
 and compliant in a dynamic financial landscape.
 
-The web app can be accesed on this link: https://loan-prediction-app-igu6.onrender.com
+Below link is available for you to make your Loan prediction and get your result with in 2 mins 
+: https://loan-prediction-app-igu6.onrender.com
